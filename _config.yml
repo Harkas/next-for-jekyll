@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Simpleyyt
+title: Harkas
 subtitle: Harkas's Blog
 description: Too simple, sometimes naive.
 author: Harkas
@@ -80,7 +80,7 @@ alipay: http://p1.bpimg.com/567571/9a4a158daee8aa69.png
 favicon: /assets/images/author.jpeg
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT, simpleyyt, yitao"
+keywords: "Jekyll, NexT, Harkas"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -153,8 +153,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-#scheme: Mist
-scheme: Pisces
+scheme: Mist
+#scheme: Pisces
 
 
 # ---------------------------------------------------------------
