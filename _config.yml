@@ -187,7 +187,7 @@ font:
   # Fallback to `global` font settings.
   posts:
     external: true
-    family:
+    family: Droid Serif,PingFang SC,Hiragino Sans GB,Droid Sans Fallback,Microsoft YaHei,sans-serif
 
   # Font settings for Logo
   # Fallback to `global` font settings.
